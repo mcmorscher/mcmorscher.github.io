@@ -1,0 +1,36 @@
+body {
+    font-family: Helvetica, sans-serif;
+    color: white;
+    background-color: slategray;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: orange;
+    font-style: italic;
+}
+
+#resume_link {
+    float: left;  
+    background-color: orange;
+}
+
+#biography_link {
+    float: right;
+    background-color: orange;
+}
+
+p {
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: justify;
+}
+
+
+#bio_header {
+    color: orange
+}
