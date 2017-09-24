@@ -33,3 +33,9 @@ p {
 #bio_header {
     color: orange
 }
+
+#pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
