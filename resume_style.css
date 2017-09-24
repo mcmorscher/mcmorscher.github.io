@@ -1,0 +1,42 @@
+body {
+    font-family: Georgia, serif;
+    background-color:antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;    
+}
+
+h2 {
+    border-bottom: 2px solid;
+}
+
+h4 {
+    font-style: italic;
+}
+
+ul {
+    margin-left: 10px;
+}
+
+p {
+    margin: 0;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.indent {
+    margin-left: 50px;
+}
+
+.right_align {
+    float: right;
+}
+
+.italicize {
+    font-style: italic;
+    font-size: 16px;
+}
